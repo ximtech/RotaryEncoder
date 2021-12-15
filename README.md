@@ -6,6 +6,7 @@
 
 ### Features
 - Good precision
+- Button handling
 
 ### Add as CPM project dependency
 
