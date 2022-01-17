@@ -23,7 +23,7 @@ CPMAddPackage(
 1. Start project with STM32CubeMX:
     * [Timer configuration](https://github.com/ximtech/RotaryEncoder/blob/main/example/config_1.PNG)
     * [GPIO configuration](https://github.com/ximtech/RotaryEncoder/blob/main/example/config_2.PNG)
-    * [GPIO configuration 2](https://github.com/ximtech/RotaryEncoder/blob/main/example/config_2.PNG)
+    * [GPIO configuration 2](https://github.com/ximtech/RotaryEncoder/blob/main/example/config_3.PNG)
 2. Select: Project Manager -> Advanced Settings -> GPIO -> LL
 3. Generate Code
 4. Add sources to project:
